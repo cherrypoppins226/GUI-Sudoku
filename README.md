@@ -1,4 +1,4 @@
-# Sudoku-GUI
+# GUI Sudoku
 This is a Sudoku Solver game.
 
 It allows user to play the sudoku game.
